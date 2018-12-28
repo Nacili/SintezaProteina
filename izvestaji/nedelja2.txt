@@ -1,0 +1,6 @@
+- Iscrtana r-RNK
+- Iscrtana m-RNK sa prvim tripletom nukleotida: AUG
+
+- Popraviti bug sa sferom
+- Iscrtati t-RNK sa metioninom i odgovarajućim tripletom
+- Iscrati sub jedinicie r-RNK kao polu-sferu

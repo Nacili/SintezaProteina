@@ -1,0 +1,9 @@
+Urađeno ove nedelje:
+-Definisane osnove callback funkcija: on_display, on_keyboard, on_reshape, on_timer
+-Iscrtan je prozor i ćelijska sredina
+-Iscrtano je ćelijsko jezgro kao žičana sfera
+
+Plan za sledeću nedelju:
+-Ćelijsko jezgro modelovati kao loptu sa rupicama
+-Iscrtati osnovu informacione RNK
+-Iscrtati alfa-amino kiseline

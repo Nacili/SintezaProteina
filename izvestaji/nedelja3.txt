@@ -1,0 +1,15 @@
+Urađeno ove nedelje:
+
+- Napravljene transportne RNK
+- Popravljene matrice
+- Popravljen prikaz sfere
+- Podešen ugao gledanja
+- Pripremljena podloga za animaciju
+
+
+Plan za sledeću nedelju:
+
+- Dodati još aminokiselina na mRNK
+- Popraviti animaciju (zaustavljanje u određenom trenutku, ili na određenom mestu)
+- Napraviti stop signal
+- Nadogradti rRNK

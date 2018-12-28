@@ -1,0 +1,3 @@
+Urađeno:
+
+- Reorganizacija koda i ubačen je tekst

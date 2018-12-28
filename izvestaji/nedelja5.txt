@@ -1,0 +1,8 @@
+Urađeno:
+
+ - Napravljena je struktura nukleobaza. One se učitavaju u globalni niz i tako iscrtavaju.
+ - Dodata je legenda sa strane
+
+Plan za sledeću nedelju:
+
+- Dovršiti ono što je započeto ove nedelje

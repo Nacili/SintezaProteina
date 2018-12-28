@@ -1,0 +1,9 @@
+Urađeno:
+
+- Napravljena je struktura tRNK i odgovarajuće funkcije za rad sa tRNK
+
+
+
+Planira se za sledeću nedelju:
+
+- Napraviti strukture rRNK i stop i odgovarajuće funkcije

@@ -1,0 +1,9 @@
+Urađeno:
+
+- Animacija podešena
+
+Plan za sledeću nedelju:
+
+- Ubaciti tekst
+- Reorganizovati kod
+- Sitne dopravke

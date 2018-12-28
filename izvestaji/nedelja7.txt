@@ -1,0 +1,8 @@
+Urađeno:
+
+- Napravljene strukture stop i rRNK i odgovarajuće funkcije
+
+Plan za sledeću nedelju:
+
+- Namestiti anmaciju tako da se akcije odigravaju po određenom redosledu
+- Ubaciti tekst
